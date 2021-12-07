@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Montserrat:ital@0;1&family=Oswald:wght@200&family=Roboto&family=Zen+Antique&display=swap");
+
+body {
+  background-color: rgb(29, 13, 37);
+  color: aliceblue;
+  font-family: 'M PLUS Code Latin', sans-serif;
+}
+.container {
+  background-color:rgba(0,0,0,0.3);
+  margin-top: 10rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  
+}
